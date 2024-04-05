@@ -1,0 +1,47 @@
+https://archive.ics.uci.edu/dataset/597/productivity+prediction+of+garment+employees
+
+01	date			:	Date in MM-DD-YYYY
+02	day			:	Day of the Week
+03	quarter			:	A portion of the month. A month was divided into four quarters
+04	department		:	Associated department with the instance
+05	team_no			:	Associated team number with the instance
+06	no_of_workers		:	Number of workers in each team
+07	no_of_style_change	:	Number of changes in the style of a particular product
+08	targeted_productivity	:	Targeted productivity set by the Authority for each team for each day.
+09	smv			:	Standard Minute Value, it is the allocated time for a task
+10	wip			:	Work in progress. Includes the number of unfinished items for products
+11	over_time		:	Represents the amount of overtime by each team in minutes
+12	incentive		:	Represents the amount of financial incentive (in BDT) that enables or motivates a particular course of action.
+13	idle_time		:	The amount of time when the production was interrupted due to several reasons
+14	idle_men		:	The number of workers who were idle due to production interruption
+15	actual_productivity	:	The actual % of productivity that was delivered by the workers. It ranges from 0-1.
+
+Date: This variable represents the date of the data entry. You can use it for time series analysis to observe trends over time. Possible plots include line charts or scatter plots with date on the x-axis and some other variable (e.g., productivity) on the y-axis.
+
+Day: This represents the day of the week. You can create bar charts or pie charts to visualize how productivity or other variables vary by the day of the week.
+
+Quarter: This variable divides the month into quarters. You can use it to analyze monthly trends and compare performance across quarters.
+
+Department: This variable indicates the associated department with each instance. You can create bar charts to compare productivity or other metrics across different departments.
+
+Team Number: This represents the team number associated with each instance. You can create line charts or bar charts to compare productivity or other metrics across different teams.
+
+Number of Workers: This variable indicates the number of workers in each team. You can use it to analyze productivity per worker or to see how productivity scales with the number of workers.
+
+Number of Style Changes: This represents the number of changes in the style of a particular product. You can analyze its impact on productivity using correlation analysis or by creating scatter plots.
+
+Targeted Productivity: This is the targeted productivity set by the authority for each team for each day. You can create line charts to compare targeted versus actual productivity over time.
+
+Standard Minute Value (SMV): This is the allocated time for a task. You can use it to analyze efficiency by comparing actual time taken with the allocated time.
+
+Work in Progress (WIP): This includes the number of unfinished items for products. You can visualize WIP over time using line charts or stacked bar charts.
+
+Overtime: Represents the amount of overtime by each team in minutes. You can analyze its impact on productivity using correlation analysis or by creating line charts to see how overtime affects productivity over time.
+
+Incentive: Represents the amount of financial incentive that motivates a particular course of action. You can analyze its impact on productivity using correlation analysis or by creating scatter plots.
+
+Idle Time: This represents the amount of time when the production was interrupted due to several reasons. You can visualize idle time using bar charts or stacked bar charts to identify the main reasons for interruptions.
+
+Idle Men: This represents the number of workers who were idle due to production interruption. You can visualize idle men using bar charts or stacked bar charts to identify trends in idle manpower.
+
+Actual Productivity: This is the actual percentage of productivity delivered by the workers. You can visualize actual productivity over time using line charts or compare it with targeted productivity using bar charts.

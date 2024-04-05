@@ -1,0 +1,42 @@
+/* Tab 1 */
+
+H1{
+    margin-bottom: "0px"; text-align: center; color: white;}
+/* H2{
+         text-align: center;} */
+
+H3{
+            margin-bottom: "0px"; text-align: center; color: white;}
+
+
+H4{
+    text-align: center; color: white;
+}
+
+H5{
+    text-align: center; color: white;
+}
+
+
+#T11slider{
+    width: 40%; display: inline-block; vertical-align: top; height:10vh; 
+}
+
+#T11drop{
+    width: 50%; display: inline-block; float: right; vertical-align: top; height:10vh;
+}
+
+#T1graph{ width: 80%; padding-top : 5px; height:60vh; text-align: center; margin: 0 10%; }
+
+/* Tab 2 */
+
+#T2Compo{text-align: center; margin: 0 20%;}
+
+
+
+/* Tab 3 */
+
+#T33slider{height:10vh; text-align: center; margin: 0 30%;}
+
+#T44slider{height:10vh; text-align: center; margin: 0 30%;}
+
