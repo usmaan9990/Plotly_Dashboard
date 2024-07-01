@@ -13,7 +13,4 @@
 ### 5. Department' Productivity
 > If we hover the pie chart we can get the actual productivity and if we click the department in pie chart we can get the targeted productivity.
 
-![image](https://github.com/usmaan9990/Plotly_Dashboard/assets/31176872/80830f43-9800-4a80-924d-0461f72d7fad)
-
-
 **Note** - I have attached the dataset and link of it, additionally I did pre process in jupyter note book and I attached tha file too.
